@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am software developer working on frontend 
+i am software developer working on frontend. 
 
 
 ## 🌐 Socials:
